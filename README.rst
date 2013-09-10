@@ -1,5 +1,5 @@
-engeld's personal fork of SynoCommunity/spksrc
-==============================================
+engeld's personal fork of spksrc
+================================
 
 spksrc is a cross compilation framework intended to compile and package softwares for Synology NAS
 
